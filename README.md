@@ -2,7 +2,7 @@
 
 Include for each contributer:
 
-Name: Marcela Poli
+Name: Marcela Cristine Salomoni Poli
 
 Student Number: A00047964
 
