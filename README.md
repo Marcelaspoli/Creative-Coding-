@@ -2,11 +2,11 @@
 
 Include for each contributer:
 
-Name:
+Name: Marcela Poli
 
-Student Number: 
+Student Number: A00047964
 
-Class Group:
+Class Group: B
 
 
 # Video
